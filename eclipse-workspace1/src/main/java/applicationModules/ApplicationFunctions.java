@@ -12,14 +12,14 @@ import org.testng.annotations.Test;
 //import com.relevantcodes.extentreports.LogStatus;
 
 import config.Config;
-import reporting.ExtentReportsClass;
+//import reporting.ExtentReportsClass;
 import reporting.Logs;
 import testCases.TestCases;
 import testData.TestData;
 import utility.Utils;
 //import utility.Utilss;
-import java.lang.reflect.*;
-import java.io.*;
+//import java.lang.reflect.*;
+//import java.io.*;
 import java.lang.reflect.Method;
 
 public class ApplicationFunctions {

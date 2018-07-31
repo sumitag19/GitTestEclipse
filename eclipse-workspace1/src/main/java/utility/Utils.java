@@ -1,7 +1,7 @@
 package utility;
 //
 //import java.io.BufferedWriter;
-import java.io.File;
+//import java.io.File;
 //import java.io.FileWriter;
 //import java.io.IOException;
 //import java.io.PrintWriter;
@@ -11,18 +11,18 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
-import java.text.SimpleDateFormat;
-import java.util.Date;
+//import java.text.SimpleDateFormat;
+//import java.util.Date;
 //import java.util.ArrayList;
 //import java.util.Date;
 //import java.util.List;
-import java.util.UUID;
+//import java.util.UUID;
 //import java.util.concurrent.TimeUnit;
 
-import org.apache.commons.io.FileUtils;
+//import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.By;
-import org.openqa.selenium.OutputType;
-import org.openqa.selenium.TakesScreenshot;
+//import org.openqa.selenium.OutputType;
+//import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;

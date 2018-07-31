@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 
 import applicationModules.ApplicationFunctions;
 import config.Config;
-import reporting.ExtentReportsClass;
+//import reporting.ExtentReportsClass;
 //import driver.Driver;
 import reporting.Logs;
 import testData.TestData;
